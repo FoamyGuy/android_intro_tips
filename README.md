@@ -24,7 +24,7 @@ Here are a few things to consider and keep in mind:
 - Leave the Startup Tips in Android Studio on. Make an effort to read them each time. Keep a "cheat sheet" of ones that you find handy.
 - Use Intelesense (auto-complete) to explore what different methods you are able to use for any given object.
 - If you have a compile error (red underline) try putting your cursor on it and pressing Alt-Enter. IDE will suggest things that may fix the problem.
-- As you use Android Studio it will become clear that it is a pretty large and complex tool. When everything is working it will make your life 100x easier. However sometimes the complexity becomes too much and it will break. When this happens *DONT PANIC*. Try searching on Google or Stackoverflow for any error that it is showing you, or the symptoms of the problem if there is no visible error. Chances are some other Android developer has seen it too and posted online.
+- As you use Android Studio it will become clear that it is a pretty large and complex tool. When everything is working it will make your life 100x easier. However sometimes the complexity becomes too much and it will break. When this happens **DONT PANIC**. Try searching on Google or Stackoverflow for any error that it is showing you, or the symptoms of the problem if there is no visible error. Chances are some other Android developer has seen it too and posted online.
 
 
 # [Stack Overflow](http://stackoverflow.com)
