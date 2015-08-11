@@ -7,11 +7,11 @@ This is the introduction page on the official android development documentation.
 
 The search bar is in the upper right hand corner. Whenever you have a question like : 
 
-What does {some method} do? 
-What if anything does {some method} return to me? 
-Do I need to pass {some method} any parameters for it to work?
-What actions can {some object} do? 
-How do I create {some object}?
+- What does {some method} do? 
+- What if anything does {some method} return to me? 
+- Do I need to pass {some method} any parameters for it to work?
+- What actions can {some object} do? 
+- How do I create {some object}?
 
 You should check here first. Paste or type in the whatever object or method you want to learn about and follow the first few links that it returns.
 
@@ -33,9 +33,9 @@ This website will help you solve more problems than you can even imagine. Stack 
 
 Whenever you have a question like: 
 
-I ran my program and it crashed! It printed {some error} on the screen or in nasty red text in my debugger output. What is wrong, and how do I fix it? *Bonus points:* What caused it?
-Based on my code, I think {some thing} should behave this way. But it is actually doing {something different}.
-Android Studio is showing {some error} and it won't let me open/run my app.
+- I ran my program and it crashed! It printed {some error} on the screen or in nasty red text in my debugger output. What is wrong, and how do I fix it? *Bonus points:* What caused it?
+- Based on my code, I think {some thing} should behave this way. But it is actually doing {something different}.
+- Android Studio is showing {some error} and it won't let me open/run my app.
 
 Come to [stackoverflow.com](http://stackoverflow.com) and search for "`[android]` {error, thing, or behavior}" Chances are very good you'll find a problem similar to yours, and an answer that a few people found useful.
 
